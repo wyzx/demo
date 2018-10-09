@@ -1,4 +1,6 @@
-# Demo project README
+# Demo project README v2
+this is a simple readme markdown.
 
-this is a simple readme file.
-do this thing instead of the other one.
+## added title 2
+this is my subtitle.
+add some more information here.
